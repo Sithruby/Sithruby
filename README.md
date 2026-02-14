@@ -1,6 +1,11 @@
-<div align='center'>
+<div>
+<h3 align='left'>Hi there 🫡</h3>
+  <p>I'm <b>Sithruby Manoranjan</b>. Currently studying serverless computing, exploring the possibilities with Next.js, Docker, Cloudflare, Hono, Firebase, Cloud Run, and whatever else the web throws my way.</p>
+</div>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Sithruby&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' alt='stats' height='150px' />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sithruby&theme=material-palenight&show_icons=true&hide_border=true&layout=compact' alt='top languages' height='150px' />
+<div align='center' width='100'>
+
+<img src='https://my-github-stats-omega.vercel.app/api?username=Sithruby&theme=material-palenight&show_icons=true&hide_border=true&count_private=true' alt='stats' align='left' height='160px' />
+<img src='https://my-github-stats-omega.vercel.app/api/top-langs/?username=Sithruby&theme=material-palenight&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5' alt='top languages' align='left' height='160px' />
   
 </div>
